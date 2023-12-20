@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "1064372968362",
+    "firebase_url": "https://foodorder-c98e0.firebaseio.com",
+    "project_id": "foodorder-c98e0",
+    "storage_bucket": "foodorder-c98e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064372968362:android:7de62613d8a929003da9d3",
+        "android_client_info": {
+          "package_name": "com.food.food_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064372968362-56js0ml8cokmqiagf2juiksh364fj215.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.food_order",
+            "certificate_hash": "6c914bbda149da2b7d59634649f1dd1aa654eb58"
+          }
+        },
+        {
+          "client_id": "1064372968362-jjkaohd9mnimolo0ruhp0ioque1ju9gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.food_order",
+            "certificate_hash": "296333e9e9bb20387e2e575b1f566d4b1fc2c99e"
+          }
+        },
+        {
+          "client_id": "1064372968362-qm1pht48bcusd3fktoigbhnuo9hprrra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.food.food_order",
+            "certificate_hash": "cb5053d2ebd2f8e479c7dad8bebd29cdae6fee78"
+          }
+        },
+        {
+          "client_id": "1064372968362-qaljvl63hv27if4749154g5aud1g7cjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqvnp93A8xD0rxl28Da9781J7RqCp5aRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064372968362-deom31a21m9qbi9q2u1mm0r8stfvh6g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
